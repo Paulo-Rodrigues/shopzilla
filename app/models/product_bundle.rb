@@ -1,0 +1,2 @@
+class ProductBundle < ApplicationRecord
+end
